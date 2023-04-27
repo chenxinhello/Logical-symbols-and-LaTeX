@@ -1,2 +1,1 @@
-# LaTeX-for-Logicians
-LaTeX for Logican, especially for myself.
+This is a crash course in LaTeX for myself.
