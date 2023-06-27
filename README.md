@@ -1,1 +1,1 @@
-This is a crash course in LaTeX for myself.
+一些常用的逻辑符号在 $$\LaTeX$$ 中是如何实现的
